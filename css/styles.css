@@ -1,0 +1,83 @@
+/*style sheet created by Isabel Chorbajian on 1/30/18 */
+
+/* style for body specifies a background color */
+.container {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+header {
+	font-family: 'Mukta Mahee', sans-serif;
+	font-size: 30px;
+	color: brown;
+	text-align: right;
+}
+
+.container {
+	width: 300px;
+	margin: 0 auto;
+}
+h1 {
+    color: brown;
+	text-align: center;
+	font-family: Inconsolata;
+}
+body {
+	
+    background-color: lightblue;
+	font-family: 'Rammetto One', cursive;
+    font-size: 13px;
+	color: darkSlateGray;
+	
+}
+nav {
+	float: right;
+    display: block;
+    color: darkSlateGray;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    font-size: 13px;
+	font-family: 'Inconsolata';
+}
+.btn {
+	background-color: lightblue;
+	text-decoration: none;
+	padding: 8px 20px;
+	font-size: 18px;
+	color: green;
+	font-weight: bold;
+	border: 1px lightblue;
+}
+
+/*p {
+    font-family: 'Rammetto One', cursive;
+    font-size: 13px;
+	font-color: yellow;
+}*/
+footer {
+	font-size: 15px;
+	font-family: Inconsolata;
+	color: brown;
+	font-weight: bold;
+	text-align: left;
+	
+}
+/* footer */
+
+.footer {
+	height: 200px;
+	text-align: center;
+	background: URL("../images/footer.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.footer h2 {
+	color: white;
+	font-size: 40px;
+	margin: 0 0 20px 0;
+	padding: 50px 0;
+}
+.footer .btn {
+	margin-top:
+}
